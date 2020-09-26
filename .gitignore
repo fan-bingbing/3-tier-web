@@ -1,0 +1,9 @@
+.vagrant
+*.log
+*.tfvars
+mykey
+*.pub
+*.tfstate
+*.tfstate.backup
+.terraform
+
